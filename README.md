@@ -4,7 +4,7 @@ Automate the sign up forms flow
 # Signup Automation Script
 
 # Overview
-This repository contains an automation script for testing the "Signup flow" of [your application/system]. It includes the script, test report, and demo video.
+This repository contains an automation script for testing the "Signup flow". It includes the script, test report, and demo video.
 
 ---
 
