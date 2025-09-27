@@ -22,12 +22,13 @@ This repository contains an automation script for testing the "Signup flow" of [
 1. Clone this repository:
    
    git clone https://github.com/Niikesh/Signup_Automation.git
+   
    cd Signup_Automation
 
-2. Install required dependencies
+3. Install required dependencies
 
     pip install -r requirements.txt
 
-3. Run the automation tests
+4. Run the automation tests
 
     pytest -v signup_automation_script.py
